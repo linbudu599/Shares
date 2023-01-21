@@ -7,6 +7,7 @@ All my technology shares in the community, mainly TypeScript related.
 ### 文字形式
 
 - 掘金小册： [TypeScript 全面进阶指南](https://juejin.cn/book/7086408430491172901)
+- 掘金小册：[VS Code 扩展开发指南(WIP)]
 - 专栏：[TypeSript 的另一面：类型编程](https://www.zhihu.com/column/c_1446787480888053760)
 - 实体书 筹备中
 
@@ -23,4 +24,5 @@ All my technology shares in the community, mainly TypeScript related.
 
 ## NodeJs
 
-- 阿里巴巴前端练习生-NodeJs 方向
+- (Private) 阿里巴巴前端练习生-NodeJs 方向
+- (Private) NodeJs 全栈练习生 《TypeScript 进阶指南》
